@@ -62,8 +62,8 @@
   <!-- Contact Section -->
   <div class="contact">
     <h2>Contact Us</h2>
-    <p>Email: <a href="mailto:contact@perferengineering.com">contact@perferengineering.com</a></p>
-    <p>Phone: (123) 456-7890</p>
+    <p>Email: <a href="mailto:info@perfergroup.com">info@perfergroup.com</a></p>
+    <p>Phone: (830) 513-8400</p>
     <p>Address: 123 Industrial Way, Precision City, PC 45678</p>
   </div>
 
